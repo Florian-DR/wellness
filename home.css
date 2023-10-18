@@ -1,0 +1,44 @@
+/* General css */
+
+body{
+    background: linear-gradient(rgb(255, 209, 218), rgb(255, 240, 245));
+    margin: 0px;
+    font-family: 'Satisfy', cursive;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+/* Navbar */
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: #FFD1DA;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+}
+ 
+
+.nav-link{
+    padding: 0px 5px;
+    font-size: 20px;
+}
+
+.nav-link:hover{
+    color: #d55977;
+}
+
+/* Banner */
+
+.banner{
+    background-image: linear-gradient(rgba(255, 209, 218,0.2), rgba(255, 240, 245, 0.2)), url("./assets/spa-wellness.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0% 75% ;
+    width: 100vw;
+    height: 600px;
+}
