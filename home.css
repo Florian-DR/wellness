@@ -12,6 +12,19 @@ a{
 
 }
 
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.container{
+    width: 80vw;
+    margin: auto;
+}
+
 /* Navbar */
 nav{
     display: flex;
@@ -20,6 +33,7 @@ nav{
     padding: 20px;
     position: sticky;
     top: 0;
+    border-bottom: #d55977;
 }
  
 
@@ -42,3 +56,17 @@ nav{
     width: 100vw;
     height: 600px;
 }
+
+#banner-container{
+    display: flex;
+    align-items: end;
+    height: inherit;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.titre{
+    font-size: 45px;
+    margin: 0px;
+}
+
