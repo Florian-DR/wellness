@@ -21,7 +21,7 @@ h1{
 }
 
 .container{
-    width: 80vw;
+    width: 90vw;
     margin: auto;
 }
 
@@ -54,7 +54,7 @@ nav{
     background-repeat: no-repeat;
     background-position: 0% 75% ;
     width: 100vw;
-    height: 600px;
+    height: 52vh;
 }
 
 #banner-container{
@@ -63,6 +63,7 @@ nav{
     height: inherit;
     justify-content: center;
     flex-direction: column;
+    position: relative;
 }
 
 .titre{
@@ -70,3 +71,9 @@ nav{
     margin: 0px;
 }
 
+#quote{
+    margin: 0px;
+    height: 21vh;
+    max-width: 36vw;
+    text-align: end;
+}
