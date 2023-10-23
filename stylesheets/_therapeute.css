@@ -1,0 +1,22 @@
+/* 'La Thérapeute' */
+.anchor{
+    position: absolute;
+    top: -70px;
+}
+
+.presentation{
+    display: flex;
+}
+
+.presentation img{
+    min-width: 400px;
+    max-height: 400px;
+    margin-right: 30px;
+    margin-top: 100px;
+    position: sticky;
+    top: 70px;
+}
+
+.presentation-content{
+    text-align: center;
+}

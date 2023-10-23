@@ -1,0 +1,25 @@
+/* Navbar */
+
+.navbar{
+    background-color: rgb(255, 209, 218, 0.96);
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+nav{
+    margin-left: 37vw;
+}
+ 
+
+.nav-link{
+    padding: 0px 5px;
+    font-size: 20px;
+    /* color: #781830; */
+
+}
+
+.nav-link:hover{
+    color: #d55977;
+}

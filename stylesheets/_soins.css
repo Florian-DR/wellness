@@ -1,0 +1,20 @@
+
+.soins p {
+    margin-top: 0px;
+}
+
+.soins img{
+    height: 300px;
+    display: inline;
+}
+
+.img-right{
+    margin-left: 20px;
+    float: right;
+}
+
+.harmonie img{
+    margin-right: 20px;
+    margin-bottom: 5px;
+    float: left;
+}
