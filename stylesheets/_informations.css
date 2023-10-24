@@ -1,0 +1,16 @@
+.informations{
+    display: flex;
+    align-items: center;
+}
+.informations p {
+    text-align: center;
+}
+
+.tarifs{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    margin: 0px 10px;
+    min-width: 210px;
+}
