@@ -1,7 +1,7 @@
 /* General css */
 
 body{
-    background: rgb(252, 233, 239);
+    background: rgb(244, 223, 208);
     margin: 0px;
     font-family: 'KoHo', sans-serif;
 }
@@ -21,14 +21,14 @@ p{
 
 h2{
     text-align: center;
-    font-size: 30px;
-    padding: 10px;
+    font-size: 35px;
+    margin: 10px;
 }
 
 h3{
     font-size: 27px;
     font-weight: 600;
-    padding-top: 30px;
+    margin-top: 100px;
 }
 
 h4{
@@ -48,3 +48,15 @@ h4{
 hr{
     margin: 50px 0px;
 }
+
+.soleil{
+    background-image:linear-gradient(rgba(244, 223, 208, 0.4), rgba(244, 223, 208, 0.4)), url('../images/levé-de-soleil.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    margin: 50px 0px;
+    background-position: 75% ;
+
+}
+

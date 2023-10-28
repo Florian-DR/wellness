@@ -1,3 +1,6 @@
+.soins-titre{
+    margin-top: 200px;
+}
 
 .soins p {
     margin-top: 0px;
@@ -6,6 +9,8 @@
 .soins img{
     height: 300px;
     display: inline;
+    opacity: 0.8;
+
 }
 
 .img-right{

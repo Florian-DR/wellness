@@ -1,7 +1,7 @@
 /* Banner */
 
 #banner{
-    background-image: linear-gradient(rgba(255, 209, 218,0.2), rgba(255, 240, 245, 0.2)), url("../images/massage-bien-etre.jpeg");
+    background-image: linear-gradient(rgba(255, 209, 218,0.2), rgba(255, 240, 245, 0.6)), url("../images/massage-bien-etre.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0% 75% ;
@@ -28,7 +28,8 @@
 #quote{
     margin: 0px;
     height: 21vh;
-    max-width: 42vw;
+    max-width: 44vw;
     text-align: end;
     font-size: 18px;
+    font-weight: 600;
 }
