@@ -1,7 +1,7 @@
 /* General css */
 
 body{
-    background: rgb(244, 223, 208);
+    background: #f4dfd0;
     margin: 0px;
     font-family: 'KoHo', sans-serif;
 }
@@ -48,6 +48,5 @@ h4{
 hr{
     margin: 50px 0px;
 }
-
 
 

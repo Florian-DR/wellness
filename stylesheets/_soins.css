@@ -1,5 +1,8 @@
 .soins-titre{
     margin-top: 200px;
+    position: absolute;
+    right: 29vw;
+    top: -10vh;
 }
 
 .soins p {
