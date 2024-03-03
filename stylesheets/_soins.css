@@ -29,7 +29,7 @@
 }
 
 .soleil{
-    background-image:linear-gradient(rgba(244, 223, 208, 0.4), rgba(244, 223, 208, 0.1)), url('../images/corse-soins.jpeg');
+    background-image:linear-gradient(rgba(244, 223, 208, 0.4), rgba(244, 223, 208, 0.1)), url('../images/banner-soins.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;

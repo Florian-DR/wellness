@@ -1,7 +1,5 @@
-/* Banner */
-
 #banner{
-    background-image: linear-gradient(rgba(240, 167, 121, 0.2), rgba(240, 167, 121, 0.4)), url("../images/massage-dos.jpeg");
+    background-image: linear-gradient(rgba(240, 167, 121, 0.2), rgba(240, 167, 121, 0.4)), url("../images/banner-main.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0% 75% ;
