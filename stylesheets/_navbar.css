@@ -17,6 +17,6 @@ nav{
 
 }
 
-.nav-link:hover{
+.navbar a:hover{
     color: #d55977;
 }
