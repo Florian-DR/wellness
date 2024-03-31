@@ -38,3 +38,24 @@
     background-position: 75% ;
 
 }
+
+@media(max-width:1000px) {
+    .soins img{
+        float: none;
+        margin: 0px;
+        height: auto;
+        max-width: 100%;
+    }
+    .soins-titre{
+        top: -8vh;
+        left: 31vw;
+        right: auto;
+    }
+    .soleil{
+        background-image: url('../images/banner-soins.jpeg');
+    }
+
+    .soins-practice{
+        margin-bottom: 10vh;
+    }
+}
