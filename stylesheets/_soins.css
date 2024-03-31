@@ -50,6 +50,7 @@
         top: -8vh;
         left: 31vw;
         right: auto;
+        opacity: 1;
     }
     .soleil{
         background-image: url('../images/banner-soins.jpeg');
