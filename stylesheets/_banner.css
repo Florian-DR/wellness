@@ -30,4 +30,29 @@
     text-align: end;
     font-size: 18px;
     font-weight: 600;
+    height: fit-content;
 }
+
+@media(max-width: 1000px){
+    #banner{
+        background-image: url("../images/banner-main-phone.jpg");
+        height: 100vh;
+        color: rgb(238, 204, 183);
+        text-shadow: 10px 5px 12px rgb(30, 30, 30);
+        
+    }
+    #banner-container{
+        align-items: center;
+    }
+
+    .titre{
+        font-size: 5.3em;
+        margin-bottom: 1em;
+    }
+    #quote{
+        font-size: 4em;
+        max-width: 80vw;
+        text-align: center;
+    }
+}
+
