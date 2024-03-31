@@ -18,3 +18,17 @@
     object-fit: cover;
     opacity: 0.8;
 }
+
+@media(max-width:1000px) {
+    .presentation{
+        display: block;
+        text-align: center;
+    }
+    .presentation img{
+        max-width: 550px;
+        max-height: 550px;
+        position:static;
+        margin: 30px auto;
+        opacity: 1;
+    }
+}
