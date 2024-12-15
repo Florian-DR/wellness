@@ -20,7 +20,7 @@
 
 .titre{
     font-size: 39px;
-    margin: 0px;
+    margin: 20px 0px;
 }
 
 #quote{
@@ -31,6 +31,7 @@
     font-size: 18px;
     font-weight: 600;
     height: fit-content;
+    white-space: pre-line;
 }
 
 @media(max-width: 1000px){

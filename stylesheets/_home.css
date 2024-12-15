@@ -1,5 +1,9 @@
 /* General css */
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background: #f4dfd0;
     margin: 0px;
@@ -16,6 +20,7 @@ p{
     font-size: 20px;
     line-height: 1.7;
     text-align: justify;
+    white-space: pre-line;
 }
 
 
@@ -34,6 +39,7 @@ h3{
 h4{
     font-size: 22px;
     text-align: center;
+    margin: 10px 0px;
 }
 
 .container{
