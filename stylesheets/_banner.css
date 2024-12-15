@@ -34,6 +34,7 @@
     white-space: pre-line;
 }
 
+
 @media(max-width: 1000px){
     #banner{
         background-image: url("../images/banner-main-phone.jpg");
@@ -47,13 +48,24 @@
     }
 
     .titre{
-        font-size: 5.3em;
+        font-size: 4.3em;
         margin-bottom: 1em;
     }
     #quote{
-        font-size: 4em;
+        font-size: 3em;
         max-width: 80vw;
         text-align: center;
     }
 }
+
+ @media (max-width: 700px){
+    .titre{
+        font-size: 3em;
+        margin-bottom: 1em;
+    } 
+    #quote{
+        font-size: 1.5em;
+    }
+} 
+
 

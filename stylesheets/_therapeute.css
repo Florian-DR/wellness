@@ -25,7 +25,7 @@
         text-align: center;
     }
     .presentation img{
-        max-width: 550px;
+        max-width: 80vw;
         max-height: 550px;
         position:static;
         margin: 30px auto;
